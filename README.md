@@ -1,3 +1,4 @@
 # project1
-this is my first project 
-author - Aditya kumar 
+this is my first project.
+<br>
+Author - Aditya kumar 
